@@ -16,6 +16,7 @@ Você pode clonar/baixar o projeto localmente e simplesmente abrir o arquivo ind
 
 # Problema Proposto
 Crie um sistema que permita o cadastro de anúncios. O anúncio deverá conter os seguintes dados:
+    
     - nome do anúncio
     - cliente
     - data de início
@@ -23,6 +24,7 @@ Crie um sistema que permita o cadastro de anúncios. O anúncio deverá conter o
     - investimento por dia
 
 O sistema fornecerá os relatórios de cada anúncio contendo:
+   
     - valor total investido
     - quantidade máxima de visualizações
     - quantidade máxima de cliques
