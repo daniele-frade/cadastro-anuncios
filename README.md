@@ -1,4 +1,4 @@
-## Cadastro de anúncios
+# # Cadastro de anúncios
 Este é um repositório que contém a aplicação da segunda parte do desafio Capgemini.
 
 Esta é aplicação simples baseada em HTML/CSS/JS que resolve o problema proposto pelo desafio da Capgemini.
