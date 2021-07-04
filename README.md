@@ -1,4 +1,4 @@
-<h1> Tecnologias Usadas </h1>
+<h1> Cadastro de Anúncios </h1>
 
 Este é um repositório que contém a aplicação da segunda parte do desafio Capgemini.
 
